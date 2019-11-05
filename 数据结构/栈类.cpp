@@ -25,3 +25,4 @@ public:
 	 void pop()	 {		 if (top == 0)		 {			 printf("\nThe sequence stack is empty!"); 			 return;		 }		 top--;	 }
 
 };
+//这是一行改动的文字
